@@ -1,5 +1,4 @@
-# SpaceX Capstone 
-## April 2026
+# SpaceX Capstone - ## April 2026
 
 ### IBM Data Science Course Capstone Project
 
